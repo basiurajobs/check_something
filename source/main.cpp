@@ -1,7 +1,7 @@
 #include "custom.h"
 #include "sizeof.h"
 #include "symbols.h"
-
+/* dupa1 */
 #include <iostream>
 
 int main() {
