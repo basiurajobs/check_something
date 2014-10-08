@@ -8,8 +8,7 @@ Run by:<br>
 <code>cd <check_something_path></code><br>
 <code>./check_something</code>
 
-<b>Current features:</b>
-<ul>
+<b>Current features:</b><ul>
 <li>Checking size of types on current compilator.
 <li>Checking ASCII No. of given symbol.
 <li>Printing full (printable) ASCII table.
