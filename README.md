@@ -9,7 +9,7 @@ Run by:<br>
 <code>./check_something</code>
 
 ##Current features:
-><ul>
+<ul>
 <li>Checking size of types on current compilator.
 <li>Checking ASCII No. of given symbol.
 <li>Printing full (printable) ASCII table.
