@@ -10,7 +10,7 @@ Run by:<br>
 
 ##Current features:
 <ul>
-<li>Checking size of types on current compilator.
+<li>Checking types' size of current compilator.
 <li>Checking ASCII No. of given symbol.
 <li>Printing full (printable) ASCII table.
 </ul>
