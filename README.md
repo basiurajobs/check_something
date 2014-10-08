@@ -14,3 +14,5 @@ Run by:<br>
 <li>Checking ASCII No. of given symbol.
 <li>Printing full (printable) ASCII table.
 </ul>
+
+dup2
