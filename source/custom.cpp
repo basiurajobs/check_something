@@ -14,7 +14,8 @@ void initTermios(int echo) {
     news = old; /* make news settings same as old settings */
     news.c_lflag &= ~ICANON; /* disable buffered i/o */
     news.c_lflag &= echo ? ECHO : ~ECHO; /* set echo mode */
-    tcsetattr(0, TCSANOW, &news); /* use these news terminal i/o settings now */
+    tcsetattr(0, TCSANOW,
+              &news); /* use these news terminal i/o settings now */
 }
 
 /* Restore old terminal i/o settings */
